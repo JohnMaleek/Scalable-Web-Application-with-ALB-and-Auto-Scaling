@@ -34,3 +34,11 @@ to maintain optimal performance. |
 
  Security: Implement IAM for managing permissions and |
 ensuring security. |
+
+
+TO TEST::
+
+HERE IS THE LINK OF STATIC WEBSITE
+NOTE: i have just created a simple website that doesn't really need for RDS but i created to be ready if i changed my mind and use backend system
+ -->>> http://44.193.72.204/  <<----
+as a piece of evidence <img width="985" height="318" alt="image" src="https://github.com/user-attachments/assets/eaace82e-9926-46e0-9605-6a704cb81cd0" />
